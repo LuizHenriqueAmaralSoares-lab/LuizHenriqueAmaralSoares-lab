@@ -3,7 +3,6 @@ My personal projects<br>Lua, Godot Engine, C and C++, Ruby on Rails, Pixel Art<b
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LuizHen82944942) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22456448) 
 
 # 💻 Tech Stack:
